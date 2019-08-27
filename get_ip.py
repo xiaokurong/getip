@@ -6,6 +6,10 @@ from email.mime.text import MIMEText
 from email.header import Header
 import  time
 
+'''
+	add test1
+'''
+
 sender ='liuyanjie@dealeasy.com'
 receiver = 'liuyanjie@dealeasy.com'
 mail_host = 'smtp.mxhichina.com'
