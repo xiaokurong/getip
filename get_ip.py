@@ -12,7 +12,9 @@ mail_host = 'smtp.mxhichina.com'
 mail_user = 'liuyanjie@dealeasy.com'
 mail_pass = 'Derobin123'
 
-
+'''
+    set test 
+'''
 
 def getIpPage():
     url = 'https://api.ipify.org/?format=json'
