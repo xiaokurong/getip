@@ -16,9 +16,6 @@ mail_host = 'smtp.mxhichina.com'
 mail_user = 'liuyanjie@dealeasy.com'
 mail_pass = 'xxxxxxx'
 
-'''
-  add description for test
-'''
 def getIpPage():
     url = 'https://api.ipify.org/?format=json'
     response = urllib.request.urlopen(url)
